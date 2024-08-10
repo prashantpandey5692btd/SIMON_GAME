@@ -13,5 +13,12 @@
 
 ## Game Interface Look Like :
 
+### 1. Game Start
+
 
 ![simon game](https://github.com/user-attachments/assets/ddc9f901-1921-4c53-b467-fbd38ae2d428)
+
+### 2. Press any key to Restart the Game
+
+
+![Simon Game Over](https://github.com/user-attachments/assets/12c73132-21fa-42ba-8eb5-706c52b6d536)
