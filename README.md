@@ -11,7 +11,7 @@
 #### 4.If the player makes a mistake, the game ends, and they must start over from the beginning.
 #### 5.The objective is to see how many sequences the player can remember and repeat correctly.
 
-##Game Interface Look Like :
+## Game Interface Look Like :
 
 
 ![simon game](https://github.com/user-attachments/assets/ddc9f901-1921-4c53-b467-fbd38ae2d428)
