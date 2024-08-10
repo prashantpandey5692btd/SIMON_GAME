@@ -10,3 +10,5 @@
 #### 3.Players must repeat the entire sequence in the correct order to progress to the next round.
 #### 4.If the player makes a mistake, the game ends, and they must start over from the beginning.
 #### 5.The objective is to see how many sequences the player can remember and repeat correctly.
+
+![simon game](https://github.com/user-attachments/assets/ddc9f901-1921-4c53-b467-fbd38ae2d428)
